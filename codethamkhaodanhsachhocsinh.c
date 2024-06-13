@@ -7,7 +7,7 @@
 
 // Cấu trúc để lưu trữ thông tin của một học sinh
 typedef struct {
-    char name[MAX_LENGTH];
+    char name[MAX_LENGTH]; 
     char class[MAX_LENGTH];
     char phone[MAX_LENGTH];
     float average_grade;
